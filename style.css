@@ -242,6 +242,7 @@ section.landing-banner {
   background-image: url("images/background/door2.jpg");
   background-size: cover;
   height: 25rem;
+  box-shadow: inset 0px 0px 78px 14px rgba(255,255,255,1);
 }
 section.landing-banner h1 {
   font-size: 3rem;
