@@ -2,7 +2,16 @@ body {
   font-family: "Noto Sans KR", sans-serif;
   margin: 0px auto;
 }
-
+.text-hand{
+  font-family: 'Tourney', cursive;
+}
+.text-handa{
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.5rem;
+}
+.text-handar{
+  font-family: 'Bree Serif', serif;
+}
 .text-light {
   color: #f1f1f1;
 }
@@ -232,7 +241,7 @@ img.gallery-image {
 section.landing-banner {
   background-image: url("images/background/door2.jpg");
   background-size: cover;
-  height: 20rem;
+  height: 25rem;
 }
 section.landing-banner h1 {
   font-size: 3rem;
